@@ -1,12 +1,4 @@
 <div align="center">
-  
-  <!-- dynamic typing effect 动态打字效果 -->
-  <div align="center">
-    <a href="https://blog.sunguoqi.com/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);小陈同学祝您今天愉快!&center=true&size=27" alt="Typing SVG" />
-    </a>
-  </div>
-  <!-- profile logo 个人资料徽标 -->
 
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
 <picture>
@@ -105,7 +97,6 @@
 <!-- ########################################## 分割 ########################################## -->
 <div align="center" >
 
-
 <!-- GitHub 奖杯🏆 -->
 
 <!-- GitHub 数据统计 -->
@@ -113,9 +104,7 @@
 <img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AppMarketCC&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" /><br><br>
 
 <!-- Awesome repo 比较好的仓库-->
-<a href="https://github.com/sun0225SUN/Awesome-Love-Code">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=AppMarketCC&repo=Awesome-Love-Code&theme=dark&bg_color=121212&hide_border=true" /></a>
-<a href="https://github.com/sun0225SUN/Student-Data-Vision">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=AppMarketCC&repo=Student-Data-Vision&theme=dark&bg_color=121212&hide_border=true" /></a><br><br>
   
 <!-- Wakatime Graph-->
